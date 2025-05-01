@@ -8,12 +8,12 @@ import { en, es, id, ar, pt } from './lib/idiomas/total-idiomas.js'
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 global.owner = [
   [' 393271166550 ', 'MAYO 👑 ', true],
-  ['201002771022', 'YUNA 💖', true],
+  ['201508220480', 'Guts|Ahmed', true],
   ['+393271166550 ']]
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 global.mods = [] 
-global.prems = [' 393271166550 '], 
+global.prems = [' 201508220480 '], 
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
